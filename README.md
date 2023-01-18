@@ -1,2 +1,0 @@
-# testes-typescript
-testes-typescript
