@@ -1,9 +1,9 @@
 // export class Negociacao {
-//     #data;
-//     #quantidade;
-//     #valor;
+//     #data: Date;
+//     #quantidade: Number;
+//     #valor: Number;
 
-//     constructor(data, quantidade, valor){
+//     constructor(data: Date, quantidade: Number, valor: Number){
 //         this.#data = data
 //         this.#quantidade = quantidade
 //         this.#valor = valor
@@ -19,7 +19,7 @@
 //         return this.#valor;
 //     }
 
-//     get volume (){
+//     get volume: Number (){
 //         return this.#quantidade * this.#valor;
 //     }
 // }
